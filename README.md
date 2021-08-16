@@ -2,7 +2,7 @@
 - 👀 I’m interested in Minecraft, Star Stable and game devolopment
 - 🌱 I’m currently learning the basics of coding
 - 💞️ I’m looking to collaborate on nothing currently
-- 📫 How to reach me Disvord: Wilbur#7294
+- 📫 You can reach me on Discord: Wilbur#7294
 
 <!---
 Temm404/Temm404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
